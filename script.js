@@ -1,0 +1,12 @@
+const box = document.getElementById("box");
+box.style.backgroundColor="yellow";
+box.style.width="300px"
+box.style.height="200px"
+box.style.marginLeft="20px"
+box.style.marginTop="20px"
+box.style.paddingLeft="10px"
+const para = document.getElementById("para");
+para.style.fontSize ="18px"
+para.style.color ="blue"
+para.style.fontWeight ="700"
+para.style.paddingTop ="8px"
